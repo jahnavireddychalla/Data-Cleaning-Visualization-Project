@@ -1,0 +1,39 @@
+Data Cleaning and Visualization of Student Performance Dataset
+
+Introduction
+
+This project focuses on analyzing student performance data using Python. The dataset was explored, cleaned, and visualized to gain meaningful insights.
+
+Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+* Seaborn
+* VS Code
+
+Data Cleaning Process
+
+1. Loaded the dataset.
+2. Inspected dataset structure.
+3. Checked missing values.
+4. Checked duplicate records.
+5. Generated statistical summary.
+
+Visualizations
+
+1. Math Score Distribution
+2. Gender Distribution
+3. Math Score by Gender
+
+Key Findings
+
+* No missing values were found in the dataset.
+* No duplicate records were found.
+* Student scores are distributed across a wide range.
+* Gender distribution is relatively balanced.
+* Math performance can be compared across genders using boxplots.
+
+Conclusion
+
+The project successfully demonstrates data cleaning, exploratory data analysis, and visualization using Python libraries.
